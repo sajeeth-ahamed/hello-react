@@ -7,6 +7,9 @@ function App() {
         <h1>Hello ReactJS!</h1>
         <h2>GitHub Actions Testing!!!</h2>
       </header>
+      <main>
+        <p>It works now btw, how to specify the path in '.yml' file</p>
+      </main>
     </div>
   );
 }
